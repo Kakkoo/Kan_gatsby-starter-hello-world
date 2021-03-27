@@ -14,9 +14,13 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "classes": "^0.3.0",
     "gatsby": "^3.1.2",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-bootstrap": "^1.5.2",
+    "react-bootstrap-table": "^4.3.1",
+    "react-dom": "^17.0.1",
+    "react-loading-skeleton": "^2.2.0"
   },
   "devDependencies": {
     "prettier": "2.2.1"
